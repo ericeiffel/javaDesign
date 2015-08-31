@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/org/zcj/builder/SmsSender.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/org/zcj/factroy/abstractfactory/SmsSender.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/org/zcj/factroy/mulitfactory/SmsSender.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/org/zcj/factroy/normalfactory/SmsSender.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/org/zcj/factroy/staticfactory/SmsSender.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/org/zcj/mediator/MediatorTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/org/zcj/memento/MementoTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/org/zcj/visitor/VisitorTest.java" charset="UTF-8" />
+  </component>
+</project>
